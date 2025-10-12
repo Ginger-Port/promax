@@ -1,0 +1,4 @@
+@import "tailwindcss";
+:root{--bg:#fff;--fg:#0a0a0a}@media (prefers-color-scheme: dark){:root{--bg:#0a0a0a;--fg:#fafafa}}
+html,body{height:100%}
+body{background:var(--bg);color:var(--fg)}
