@@ -1,0 +1,1 @@
+export default function Page(){return(<main className="container mx-auto px-6"><section className="py-20 text-center"><h1 className="text-4xl font-semibold">Your product, elevated!</h1><p className="text-muted-foreground mt-2">Ship faster with our platform</p></section></main>)};
